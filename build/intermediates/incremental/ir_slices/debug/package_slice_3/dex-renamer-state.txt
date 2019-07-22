@@ -1,0 +1,4 @@
+#Wed Jul 17 21:12:54 IST 2019
+base.0=/Users/sawood/espeak-ng/android/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

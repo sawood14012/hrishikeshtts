@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/drawable-ldpi_icon.png.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_seekbar_preference.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/seekbar_preference.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_speak_punctuation_preference.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/speak_punctuation_preference.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/drawable-mdpi_icon.png.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/drawable-hdpi_icon.png.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/menu_options.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/menu/options.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/raw_espeakdata_version.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/raw/espeakdata_version"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/raw_espeakdata.zip.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/raw/espeakdata.zip"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_download_voice_data.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/download_voice_data.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/xml_preferences.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_import_voice_preference.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/import_voice_preference.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_voice_variant_preference.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/voice_variant_preference.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/xml_tts_engine.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/xml/tts_engine.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_information_view.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/information_view.xml"
+    },
+    {
+        "merged": "/Users/sawood/espeak-ng/android/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/Users/sawood/espeak-ng/android/res/layout/main.xml"
+    }
+]

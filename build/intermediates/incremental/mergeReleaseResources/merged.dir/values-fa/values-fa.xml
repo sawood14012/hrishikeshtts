@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="available_voices">صداهای نصب شده</string>
+    <string name="current_tts_locale">صدای پیش‌فرض</string>
+    <string name="engine_settings">تنظیمات eSpeak TTS</string>
+    <string name="error_message">متأسفیم، eSpeak شروع به کار نکرد. می‌خواهید یک گزارش خطا ارسال کنید؟</string>
+    <string name="installing_voice_data">در حال نصب داده‌های صوتی...</string>
+    <string name="loading">در حال بارگیری، لطفاً صبر کنید...</string>
+    <string name="sample_text">این یک نمونه از نوشتار گفته شده در %s است</string>
+    <string name="set_default_message">eSpeak اکنون بعنوان موتور پیش‌فرض نوشتار به گفتار شما تنظیم شده است. می‌خواهید اکنون آن را تنظیم کنید؟</string>
+    <string name="setting_default_pitch">زیر و بمی پیش‌فرض</string>
+    <string name="setting_default_rate">تقویت‌کننده سرعت گفتگو</string>
+    <string name="tts_settings">تنظیمات کلی TTS</string>
+    <string name="tts_settings_label">تنظیمات eSpeak TTS</string>
+    <string name="voice_data_failed_message">eSpeak نتوانست داده‌های صوتی را نصب کند. لطفاً کارت SD خود را بررسی کنید.</string>
+</resources>

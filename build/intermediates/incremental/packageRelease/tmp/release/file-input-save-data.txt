@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jul 17 17:31:28 IST 2019
+1.base=/Users/sawood/espeak-ng/android/build/intermediates/transforms/stripDebugSymbol/release/0
+2.path=lib/armeabi-v7a/libttsespeak.so
+0.baseType=DIRECTORY
+2.base=/Users/sawood/espeak-ng/android/build/intermediates/transforms/stripDebugSymbol/release/0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/sawood/espeak-ng/android/build/intermediates/transforms/dexMerger/release/0
+2.baseType=DIRECTORY
+1.path=lib/x86/libttsespeak.so

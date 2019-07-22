@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="available_voices">Zainstalowane głosy</string>
+    <string name="current_tts_locale">Domyślny głos</string>
+    <string name="engine_settings">Ustawienia eSpeak</string>
+    <string name="error_message">Przepraszamy, uruchomienie eSpeak nie powiodło się.</string>
+    <string name="installing_voice_data">Instalowanie danych głosowych...</string>
+    <string name="loading">Wczytywanie. Czekaj...</string>
+    <string name="sample_text">To jest przykład tekstu mówionego przy ustawieniu %s</string>
+    <string name="set_default_message">eSpeak nie jest ustawiony jako domyślny mechanizm odczytywania tekstu.</string>
+    <string name="setting_default_pitch">Domyślny ton</string>
+    <string name="setting_default_rate">Mnożnik szybkości mowy</string>
+    <string name="tts_settings">Ogólne ustawienia odczytywania tekstu</string>
+    <string name="tts_settings_label">Ustawienia zamiany tekstu na mowę eSpeak</string>
+    <string name="voice_data_failed_message">Zainstalowanie danych głosowych przez eSpeak nie powiodło się. Sprawdź kartę SD.</string>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sawood/espeak-ng/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "/Users/sawood/espeak-ng/android/res/values-fa/strings.xml",
+                    "from": {
+                        "startLines": "28,25,34,22,13,37,40,16,7,10,31,4,19",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1784,1617,2102,1393,672,2272,2457,877,320,502,1948,140,1147",
+                        "endColumns": "57,57,60,108,75,67,79,148,65,69,54,63,125",
+                        "endOffsets": "1839,1672,2160,1499,745,2337,2534,1023,383,569,2000,201,1270"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,175,238,349,427,497,579,730,798,870,927,993",
+                        "endColumns": "59,59,62,110,77,69,81,150,67,71,56,65,127",
+                        "endOffsets": "110,170,233,344,422,492,574,725,793,865,922,988,1116"
+                    }
+                }
+            ]
+        }
+    ]
+}

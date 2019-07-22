@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sawood/espeak-ng/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/sawood/espeak-ng/android/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "143"
+                    }
+                }
+            ]
+        }
+    ]
+}
